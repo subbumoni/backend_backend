@@ -1,0 +1,22 @@
+// text: {
+//     type: String,
+//     required: true,
+//   },
+//   amount: {
+//     type: Number,
+//     required: true,
+//   },
+
+
+
+
+  //    date: {
+  //    type: Date,
+  //    default: Date.now,
+  // },
+
+  //https://drive.google.com/drive/folders/1X5dporOdei93IipbftJmZ5-MWaivuPk3
+
+
+
+  //capstone frontend code:https://deployment-finance-expense-tracker.netlify.app
